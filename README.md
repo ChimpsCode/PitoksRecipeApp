@@ -43,7 +43,9 @@ Features:
 11. Export/Share Options 
 - Export your meal plan as a PDF or image and share it with family or roommates.
 
-Screenshots ![Welcome Screen](assets/images/welcome_screen.png) ![Recipe List](assets/images/recipe_list.png) ![Recipe Details](assets/images/recipe_details.png) ![Meal Planner](assets/images/meal_planner.png) Getting Started ### Prerequisites - Flutter SDK - Dart SDK ### Installation 
+Screenshots:
+
+![Welcome Screen](assets/images/welcome_screen.png) ![Recipe List](assets/images/recipe_list.png) ![Recipe Details](assets/images/recipe_details.png) ![Meal Planner](assets/images/meal_planner.png) Getting Started ### Prerequisites - Flutter SDK - Dart SDK ### Installation 
 1. Clone the repository: ```sh git clone https://github.com/yourusername/pitoks-recipe-app.git ```
 2. Navigate to the project directory: ```sh cd pitoks-recipe-app ```
 3. Install dependencies: ```sh flutter pub get ```
